@@ -1,0 +1,4 @@
+# The core demo uses the standard library plus matplotlib.
+matplotlib>=3.7
+# Live runs need baostock:
+baostock>=0.8.9
